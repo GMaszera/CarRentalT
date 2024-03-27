@@ -1,4 +1,4 @@
-package org.example.Entities;
+package org.example.model.entities;
 
 public class Vehicle {
 
